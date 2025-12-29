@@ -30,6 +30,6 @@ for food in cart:
     total += menu.get(food)
     print(food, end=" ")
 
-print()
+print( )
 print(f"Total of the your order is {total}.")
 
