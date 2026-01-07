@@ -19,10 +19,5 @@ elif player == "scissors" and computer == "paper":
     print("YAHOOOOO! You Win 🥳")  
 elif player == "paper" and computer == "rock":
     print("YAHOOOOO! You Win 🥳") 
-#lose you will face    
-elif player == "scissors" and computer == "rock":
-    print("OH NOOOO! You Lose 😢") 
-elif player == "paper" and computer == "scissors":
-    print("OH NOOOO! You Lose 😢") 
-elif player == "rock" and computer == "paper":
-    print("OH NOOOO! You Lose 😢") 
+else:
+    print("OOPSSS! You Lose 😢")
