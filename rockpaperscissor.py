@@ -27,7 +27,7 @@ while running:
     else:
         print("OOPSSS! You Lose 😢")
     
-    play_again = input("Play again (y/n) : ").lower()
-    if play_again == "n":
-        running= False
+    play_again = input("Play again (y/n) : ").lower()      #if input("Play again (y/n) : ").lower() == "n":
+    if play_again == "n":                                  #        running=False
+        running= False                                     
         print("Hope you enjoy the game!")
