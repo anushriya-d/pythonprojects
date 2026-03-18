@@ -12,6 +12,7 @@ Here’s a snapshot of the Python scripts in this repository: :contentReference[
 
 | Script Name | What It Does |
 |-------------|----------------|
+| `bankingpro.py` | Deposit your amount, withdraw it & check your balance |
 | `calculator.py` | Simple arithmetic calculator |
 | `compoundinterest.py` | Calculates compound interest |
 | `concesssionstandprogram.py` | Simulates a concession stand billing |
