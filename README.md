@@ -22,6 +22,7 @@ Here’s a snapshot of the Python scripts in this repository: :contentReference[
 | `quizgame.py` | Quiz game with questions |
 | `rockpaperscissor.py` | Classic Rock-Paper-Scissors game |
 | `shoppingcart.py` | Basic shopping cart experience |
+| `slotmachine.py` | Play your bet |
 
 ---
 
