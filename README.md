@@ -18,6 +18,7 @@ Here’s a snapshot of the Python scripts in this repository: :contentReference[
 | `concesssionstandprogram.py` | Simulates a concession stand billing |
 | `countdowntimer.py` | Countdown timer |
 | `diceroll.py` | Random dice roll simulator |
+| `encryptionpro.py` | Message encrypt simulator |
 | `numberguess.py` | Number guessing game |
 | `quizgame.py` | Quiz game with questions |
 | `rockpaperscissor.py` | Classic Rock-Paper-Scissors game |
