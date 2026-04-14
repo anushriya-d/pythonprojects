@@ -19,6 +19,7 @@ Here’s a snapshot of the Python scripts in this repository: :contentReference[
 | `countdowntimer.py` | Countdown timer |
 | `diceroll.py` | Random dice roll simulator |
 | `encryptionpro.py` | Message encrypt simulator |
+| `hangmaangame.py` | Identify the word |
 | `numberguess.py` | Number guessing game |
 | `quizgame.py` | Quiz game with questions |
 | `rockpaperscissor.py` | Classic Rock-Paper-Scissors game |
