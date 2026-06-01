@@ -53,7 +53,7 @@ def taskdone(todo):
     todo[num - 1]["done"] = True
     
     task_name = todo[num - 1]["task"]
-    print("Complete mark ho gayi:", task_name)
+    print("Task has been marked completed:", task_name)
 
 #task delete kra
 def deletetask(todo):
@@ -73,17 +73,17 @@ def deletetask(todo):
 
     # Confirm karo — galti se delete na ho
     task_name = todo[num - 1]["task"]
-    confirm = input(f"'{task_name}' delete karein? (y/n): ")
+    confirm = input(f"'{task_name}' want to delete? (y/n): ")
 
     if confirm.lower() == "y":
         todo.pop(num - 1)         # list se hata do
-        print("Task delete ho gayi!")
+        print("Task has been deleted!")
     else:
         print("Delete cancel.")
 
 def show_menu():
     print("--------------------------------------")
-    print("       TO-DO APP — MENU")
+    print("       TO-DO APP — MENU               ")
     print("--------------------------------------")
     print("  1. Add new task")
     print("  2. Print all task")
