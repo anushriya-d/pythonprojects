@@ -37,8 +37,11 @@ print("\n--- Your Expenses for:", motive, "---")
 for i, exp in enumerate(expenses, 1):
     print(i, ".", exp["date"], "|", exp["category"], "|", "Rs", exp["amount"], "|", exp["description"])
 
+
 print("--------------------------------------------------------")
 # Total print karo
 total = sum(exp["amount"] for exp in expenses)
 print("Total expenses:", len(expenses))
 print("Total amount: Rs", total)
+print("--------------------------------------------------------")
+
