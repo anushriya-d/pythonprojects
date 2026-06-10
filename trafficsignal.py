@@ -1,5 +1,4 @@
 
-
 def traffic_decision(choice, emergency=False, night=False):
     
     if emergency == True:
