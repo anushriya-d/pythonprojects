@@ -21,6 +21,7 @@ Here’s a snapshot of the Python scripts in this repository: :contentReference[
 | `encryptionpro.py` | Message encrypt simulator |
 | `hangmaangame.py` | Identify the word |
 | `numberguess.py` | Number guessing game |
+| `qrc.py` | Your own QR Code  |
 | `quizgame.py` | Quiz game with questions |
 | `rockpaperscissor.py` | Classic Rock-Paper-Scissors game |
 | `shoppingcart.py` | Basic shopping cart experience |
