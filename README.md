@@ -6,28 +6,6 @@ This repo includes a variety of small Python scripts that demonstrate basic prog
 
 ---
 
-## 📦 Projects Included
-
-Here’s a snapshot of the Python scripts in this repository: :contentReference[oaicite:1]{index=1}
-
-| Script Name | What It Does |
-|-------------|----------------|
-| `bankingpro.py` | Deposit your amount, withdraw it & check your balance |
-| `calculator.py` | Simple arithmetic calculator |
-| `compoundinterest.py` | Calculates compound interest |
-| `concesssionstandprogram.py` | Simulates a concession stand billing |
-| `countdowntimer.py` | Countdown timer |
-| `diceroll.py` | Random dice roll simulator |
-| `encryptionpro.py` | Message encrypt simulator |
-| `hangmaangame.py` | Identify the word |
-| `numberguess.py` | Number guessing game |
-| `qrc.py` | Your own QR Code  |
-| `quizgame.py` | Quiz game with questions |
-| `rockpaperscissor.py` | Classic Rock-Paper-Scissors game |
-| `shoppingcart.py` | Basic shopping cart experience |
-| `slotmachine.py` | Play your bet |
-
----
 
 ## 🛠️ How to Run
 
