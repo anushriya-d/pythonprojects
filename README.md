@@ -6,7 +6,6 @@ This repo includes a variety of small Python scripts that demonstrate basic prog
 
 ---
 
-
 ## 🛠️ How to Run
 
 Make sure you have **Python 3** installed on your system.

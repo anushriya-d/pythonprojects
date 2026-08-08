@@ -1,0 +1,6 @@
+2026-08-08 | travel | Rs 30000.0 | traveled entrie kerala
+2026-08-08 | food | Rs 539.0 | eat bunch of food
+2026-08-08 | shopping | Rs 2742.0 | many things
+2026-08-08 | travel | Rs 2000.0 | most of the places
+2026-08-08 | food | Rs 1948.0 | 3 whole thalis
+2026-08-08 | shopping | Rs 7000.0 | clothes,murti,ornaments

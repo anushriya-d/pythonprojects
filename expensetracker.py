@@ -25,6 +25,10 @@ while True:
     #expense add karo list mein
     expenses.append(expense)
 
+    # NEW: save expense to txt file immediately
+    with open("expenses.txt", "a") as f:
+        f.write(f"{expense['date']} | {expense['category']} | Rs {expense['amount']} | {expense['description']}\n")
+
     add = input("Wanna add more expenses (Y/N)- ")
     if add.lower()== "y":
         continue
